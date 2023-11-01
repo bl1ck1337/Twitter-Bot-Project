@@ -1,0 +1,33 @@
+{
+  "name": "twitter-bot-project",
+  "version": "1.0.0",
+  "description": "Discord bot that sends messages to a channel whenever a specific user tweets.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bl1ck1337/Twitter-Bot-Project"
+  },
+  "keywords": [
+    "discord",
+    "twitter",
+    "bot"
+  ],
+  "author": "0xffffff",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/bl1ck1337/Twitter-Bot-Project/issues"
+  },
+  "homepage": "https://github.com/bl1ck1337/Twitter-Bot-Project#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^8.2.0",
+    "twitter-v2": "^1.1.0"
+  },
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=16.0.0"
+  }
+}
